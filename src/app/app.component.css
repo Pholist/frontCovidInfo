@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css";
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css";
+.hide {
+  display: none;
+}
+/*mat table*/
+div {
+  padding: 40px 80px 0 80px;
+  background-color: #f2eaf2;
+}
+
+mat-footer-row mat-footer-cell {
+  justify-content: center;
+  font-style: italic;
+}
+.search-div {
+  margin: 0 !important;
+  padding-bottom: 0 !important;
+  background-color: white;
+}
